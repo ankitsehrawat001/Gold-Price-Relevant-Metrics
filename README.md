@@ -10,7 +10,8 @@ This project is designed for manual, controlled forecasting rather than live mar
 The app is built in Python and runs as a Streamlit dashboard.
 ---
 
-![App Demo]("C:\Machine Learning\Gold Price & Relevant Metrics\Project-Overview.gif")
+![Alt Text](Project-Overview)
+
 ---
 ## Features
 
