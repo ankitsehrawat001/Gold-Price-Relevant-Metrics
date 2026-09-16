@@ -1,3 +1,4 @@
+
 # AUREUM — Gold Intelligence Terminal
 
 A Streamlit-based gold price forecasting app that lets you manually enter market and macroeconomic inputs and generate a gold-price estimate using a trained local linear-regression model.
@@ -7,7 +8,11 @@ A Streamlit-based gold price forecasting app that lets you manually enter market
 This project is designed for manual, controlled forecasting rather than live market data ingestion. It uses a saved model and scaler from the project folder and asks the user to provide the inputs required by the model contract.
 
 The app is built in Python and runs as a Streamlit dashboard.
+---
 
+![Alt Text]("C:\Machine Learning\Gold Price & Relevant Metrics\Project-Overview.gif")
+
+---
 ## Features
 
 - Manual market snapshot input form
