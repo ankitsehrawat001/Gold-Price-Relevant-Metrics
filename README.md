@@ -11,6 +11,8 @@ The app is built in Python and runs as a Streamlit dashboard.
 ---
 
 ![Alt Text]("Project-Overview.gif")
+<img src="Project-Overview.gif" width="500" alt="App Demo">
+
 
 ---
 ## Features
